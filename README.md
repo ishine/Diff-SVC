@@ -9,6 +9,9 @@ Implementation of the paper "Diffusion-Based Voice Conversion with Fast Maximum 
 # TODO
 
 use for svc
+
+DiffSVC: A Diffusion Probabilistic Model for Singing Voice Conversion
+
 ![model](./model/model.png)
 
 # Voice conversion with the pre-trained models
