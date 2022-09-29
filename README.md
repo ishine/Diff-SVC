@@ -9,6 +9,7 @@ Implementation of the paper "Diffusion-Based Voice Conversion with Fast Maximum 
 # TODO
 
 use for svc
+![model](./model/model.png)
 
 # Voice conversion with the pre-trained models
 
